@@ -1,0 +1,5 @@
+Find Herringbone Gear DP (metric?)
+
+DP = Modulus * teeth count
+
+Ex: 2 * 64 = 128mm
